@@ -5,3 +5,4 @@ Commit on 2010-01-01 #4
 Commit on 2010-01-01 #5
 Commit on 2010-01-01 #6
 PR-346 Commit 1
+PR-346 Commit 2
