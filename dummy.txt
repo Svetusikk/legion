@@ -87,3 +87,4 @@ Commit on 2010-01-04 #10
 Commit on 2010-01-04 #11
 PR-945 Commit 1
 PR-945 Commit 2
+PR-945 Commit 3
