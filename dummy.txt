@@ -820,3 +820,4 @@ Commit on 2010-02-13 #10
 Commit on 2010-02-13 #11
 PR-670 Commit 1
 PR-670 Commit 2
+PR-670 Commit 3
