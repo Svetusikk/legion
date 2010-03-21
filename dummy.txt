@@ -1523,3 +1523,4 @@ Commit on 2010-03-21 #25
 Commit on 2010-03-21 #26
 PR-862 Commit 1
 PR-862 Commit 2
+PR-862 Commit 3
